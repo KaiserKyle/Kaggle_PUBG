@@ -4,6 +4,7 @@ R scripts for PUBG Finish Placement Prediction competition on Kaggle
 
 These scripts were used in the aforementioned Kaggle competition, which can be found here:
 https://www.kaggle.com/c/pubg-finish-placement-prediction/
+
 This was also used as a final project for one of my graduate classes, PUBG Final Report.docx is a copy of the paper I turned in which has all the details of the project.
 
 randomforest.r - Contains a Random Forest implementation of the solution. There are three main components to the pre-processing done:
